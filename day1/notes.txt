@@ -1,0 +1,19 @@
+wora- write once run anywhere 
+javac Main.java ---> compilation
+java Main --> execution
+jdk - tools
+javac - compiler
+java- launcher
+jar - archiver
+javadoc- doucmentation generator
+jdb - debugger
+
+==>
+final double PI=3.1459;
+PI=3.14; // error
+
+==>
+nextInt()
+nextLong()
+nextDouble()
+nextBoolean()
