@@ -1,0 +1,14 @@
+==>
+public static void people(){
+    // body
+}
+
+people() --METHOD NAME
+
+==method cannot be inide another method
+method name should follow camel case
+method must have a retuen type
+method cant be inside another METHOD
+() contains parameter
+{} contains method statements
+execution starts from main()
